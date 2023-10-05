@@ -1,0 +1,28 @@
+.container{
+    background-color: bisque;
+    padding: 5px;
+    border: 1px solid blue;
+
+  display: flex;
+  flex-flow:  wrap;
+ align-content: stretch;
+ 
+  height: 500px;
+  fle
+   
+  
+      
+}
+
+.box{
+    border: 3px solid black;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px;
+    width: 100px;
+}
+
+.name {
+    color: blueviolet;
+    background-color: brown;
+}
